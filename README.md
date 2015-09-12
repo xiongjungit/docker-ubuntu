@@ -22,7 +22,7 @@ docker run -it --rm dockerxman/docker-ubuntu
 
 ## github
 
-[github](https://github.com/xiongjungit/docker-octopress)
+[github](https://github.com/xiongjungit/docker-ubuntu)
 
 ## dockerhub
 
