@@ -2,7 +2,7 @@
 
 > 更新源为阿里云ubuntu更新源
 
-这个仓库包含[自动构建](https://registry.hub.docker.com/u/dockerfile/ubuntu/)ubuntu基础镜像的docerfile文件
+这个仓库包含[自动构建](https://registry.hub.docker.com/_/dockerfile/ubuntu/)ubuntu基础镜像的docerfile文件
 
 ### 基础镜像
 
@@ -17,5 +17,5 @@
 ### 使用
 
 ```
-docker run -it --rm dockerfile/ubuntu
+docker run -it --rm dockerxman/docker-ubuntu
 ```
