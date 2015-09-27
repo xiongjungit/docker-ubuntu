@@ -2,7 +2,7 @@
 #
 # Dockerizing ubuntu14.04: Dockerfile for building ubuntu images
 #
-FROM       ubuntu:14.04
+FROM       daocloud.io/library/ubuntu:latest
 MAINTAINER xiongjun,dockerxman <fenyunxx@163.com>
 
 ENV TZ "Asia/Shanghai"
