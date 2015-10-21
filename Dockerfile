@@ -30,6 +30,9 @@ ENV HOME /root
 # Define working directory.
 WORKDIR /root
 
+# expose port
+EXPOSE 22
+
 # Define default command.
 CMD ["bash"]
 
